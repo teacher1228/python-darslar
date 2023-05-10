@@ -1,1 +1,2 @@
 # python-darslar
+pythom darslari
